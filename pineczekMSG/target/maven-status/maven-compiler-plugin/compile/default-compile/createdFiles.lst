@@ -1,0 +1,7 @@
+pl\pineczek\pineczekmsg\commands\MsgCommand.class
+pl\pineczek\pineczekmsg\commands\UnIgnoreCommand.class
+pl\pineczek\pineczekmsg\commands\IgnoreCommand.class
+pl\pineczek\pineczekmsg\managers\MsgManager.class
+pl\pineczek\pineczekmsg\Main.class
+pl\pineczek\pineczekmsg\commands\ReplyCommand.class
+pl\pineczek\pineczekmsg\managers\ConfigManager.class

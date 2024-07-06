@@ -1,0 +1,24 @@
+# polish messages
+
+# msg
+
+msg_bad_usage: "&5ᴍsɢ &8|| &cUzyj /msg <nick> <message>"
+msg_unknown_player: "&5ᴍsɢ &8|| &cNie ma gracza o nicku &f%player%"
+msg_unknown_player_to_reply: "&5ᴍsɢ &8|| &cNie masz komu odpowiedziec."
+
+# reply
+
+reply_bad_usage: "&5ᴍsɢ &8|| &cUzyj /r <message>"
+
+# ignore && unignore
+
+msg_ignored: "&5ᴍsɢ &8|| &cNie mozesz napisac do tego gracza."
+msg_ignored_by_you: "&5ᴍsɢ &8|| &cNie mozesz napisac do gracza ktorego ignorujesz &f(/unignore)&c."
+ignore_bad_usage: "&5ᴍsɢ &8|| &cUzyj /ignore <message>"
+ignore_unknown_player: "&5ᴍsɢ &8|| &cNie znaleziono gracza o nicku &f%player%"
+ignore_started: "&5ᴍsɢ &8|| &cOd teraz ignorujesz gracza &f%player%"
+unignore_bad_usage: "&5ᴍsɢ &8|| &cUzyj /unignore <nick>"
+unignore_unknown_player: "&5ᴍsɢ &8|| &cNie znaleziono gracza o nicku &f%player%"
+unignore_not_ignoring: "&5ᴍsɢ &8|| &cNie ignorujesz gracza o nicku &f%player%"
+unignore_success: "&5ᴍsɢ &8|| &cPrzestales ignorowac gracza o nicku &f%player%"
+

@@ -1,0 +1,16 @@
+lang: "pl" # pl/eng
+
+# placeholders:
+# %sender% - nickname of guy who send message
+# %getter% - nickname of guy who receive message
+# %message% - message (wow)
+msg_syntax:
+  message_sender: "&5ᴍsɢ &8|| &dʏᴏᴜ &7→ &d%getter% &8|| &f%message%"
+  message_getter: "&5ᴍsɢ &8|| &d%sender% &7→ &dʏᴏᴜ &8|| &f%message%"
+
+reply_type: 0 # 0/1
+# 0 - you can reply to someone with /r only when you text them
+# 1 - you can reply to someone when you text them, or he texts you
+#     (you can accidentally send message to someone else than you want to)
+
+
